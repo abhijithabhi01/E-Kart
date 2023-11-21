@@ -29,7 +29,7 @@ function Home() {
   </Card>
       </Col>))
      
-        :<p>Nothing to Display</p>}
+        :<p>The Website is Unavaliable due to some Technical Error,Please Try After Some Time</p>}
     </Row>
   )
 }
